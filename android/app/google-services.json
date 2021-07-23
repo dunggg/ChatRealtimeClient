@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "521907511374",
+    "project_id": "chatapp-4eed8",
+    "storage_bucket": "chatapp-4eed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521907511374:android:171f4c4646bbc0ae43231f",
+        "android_client_info": {
+          "package_name": "com.musicapp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521907511374-bnm7j99i7gf87pfpo8nf8d07n5rmldc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musicapp3",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "521907511374-5ea5m8srt8gdl4h5d8npglhuia6nc7hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPR_Hg_Q0xvyEx8NTkDKv2sEz9F0OgQ8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521907511374-5ea5m8srt8gdl4h5d8npglhuia6nc7hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
